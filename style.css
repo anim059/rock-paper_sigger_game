@@ -1,0 +1,25 @@
+.container{
+	width: 75%;
+	margin:0 auto;
+    text-align: center;
+    border: 1px solid black;
+}
+.container h1{
+	padding: 10px;
+}
+.flex-container{
+	display: flex;
+	justify-content: center;
+}
+.flex-container img{
+	margin:25px;
+}
+.btn-primary{
+	width:100px;
+	height: 30px;
+	background-color: green;
+	justify-content: center;
+	text-align: center;
+	margin:20px;
+	border-radius: 10px;
+}
